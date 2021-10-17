@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [            
+            {
+                "appID": "27M3QASZCJ.com.jettmatt.example.app",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
